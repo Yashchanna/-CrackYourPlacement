@@ -1,0 +1,73 @@
+1605. Find Valid Matrix Given Row and Column Sums
+
+
+OPTIMIZED code
+
+Time complexity: O(N×M).
+
+Initializing the answer matrix origMatrix takes O(N×M) time. To store the values in the answer matrix we performed O(N+M) operations as we skipped either the row or column at each iteration. Hence, the total time complexity is equal to O(N×M).
+
+Space complexity: O(1).
+
+The space required to store the answer is not considered part of the space complexity. We don't require any extra space other than the matrix to store the answer. Hence, the total space complexity is constant.
+
+class Solution {
+public:
+    vector<vector<int>> restoreMatrix(vector<int>& rowSum, vector<int>& colSum) {
+       
+         int n= rowSum.size();
+         int m = colSum.size();
+         vector<vector<int>> ans(n , vector<int>(m,0));
+
+        
+
+        for(int i=0;i<n;i++)
+        {
+            for(int j=0 ; j<m;j++)
+            {
+                int k= min(rowSum[i] , colSum[j]);
+                ans[i][j]=k;
+                rowSum[i]-=ans[i][j];
+                colSum[j]-=ans[i][j];
+               
+            }
+        }
+        return ans;
+    }
+};
+
+
+GREEDY Code
+Here,N is the number size of the list rowSum and M is the size of the list colSum.
+
+Time complexity: O(N×M).
+
+Initializing the answer matrix origMatrix takes O(N×M) time. Also, we iterate over each of the N×M cells to find the values. Hence, the total time complexity is equal to O(N×M).
+
+Space complexity: O(N+M).
+
+The space required to store the answer is not considered part of the space complexity. Therefore, the space required for this approach is the two lists to store the current sum of rows and columns. Hence, the total space complexity is equal to O(N+M).
+
+
+class Solution {
+public:
+    vector<vector<int>> restoreMatrix(vector<int>& rowSum, vector<int>& colSum) {
+        int N = rowSum.size();
+        int M = colSum.size();
+
+        vector<int> currRowSum(N, 0);
+        vector<int> currColSum(M, 0);
+
+        vector<vector<int>> origMatrix(N, vector<int>(M, 0));
+        for (int i = 0; i < N; i++) {
+            for (int j = 0; j < M; j++) {
+                origMatrix[i][j] =
+                    min(rowSum[i] - currRowSum[i], colSum[j] - currColSum[j]);
+
+                currRowSum[i] += origMatrix[i][j];
+                currColSum[j] += origMatrix[i][j];
+            }
+        }
+        return origMatrix;
+    }
+};
