@@ -13,4 +13,16 @@
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0476-number-complement) |
+## String
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Stack
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Simulation
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
