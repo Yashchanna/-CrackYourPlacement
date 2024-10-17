@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0650-2-keys-keyboard](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0670-maximum-swap) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
