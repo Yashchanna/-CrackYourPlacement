@@ -6,6 +6,7 @@
 | ------- |
 | [0650-2-keys-keyboard](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0670-maximum-swap) |
+| [2716-prime-subtraction-operation](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2716-prime-subtraction-operation](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Greedy
 |  |
@@ -44,6 +46,7 @@
 | [0670-maximum-swap](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
 ## Heap (Priority Queue)
 |  |
@@ -60,6 +63,7 @@
 | ------- |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2716-prime-subtraction-operation](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 ## Sorting
 |  |
 | ------- |
@@ -69,4 +73,8 @@
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1755-defuse-the-bomb) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
