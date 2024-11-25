@@ -16,6 +16,7 @@
 | ------- |
 | [0476-number-complement](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0476-number-complement) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3394-minimum-array-end](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3394-minimum-array-end) |
 ## String
 |  |
 | ------- |
