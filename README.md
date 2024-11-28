@@ -87,4 +87,12 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
