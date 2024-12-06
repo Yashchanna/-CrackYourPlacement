@@ -23,6 +23,7 @@
 | [1304-longest-happy-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1304-longest-happy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -69,6 +70,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
