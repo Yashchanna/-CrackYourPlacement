@@ -20,6 +20,7 @@
 ## String
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [1304-longest-happy-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1304-longest-happy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
@@ -55,6 +56,7 @@
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0670-maximum-swap) |
+| [0778-reorganize-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [1304-longest-happy-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -64,6 +66,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0778-reorganize-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [1304-longest-happy-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Two Pointers
@@ -88,6 +91,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0778-reorganize-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -105,6 +109,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0778-reorganize-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Linked List
@@ -119,4 +124,8 @@
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Counting
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
