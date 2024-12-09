@@ -51,6 +51,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3427-special-array-ii](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3427-special-array-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
+| [3427-special-array-ii](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3427-special-array-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -128,4 +130,8 @@
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0778-reorganize-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [3427-special-array-ii](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3427-special-array-ii) |
 <!---LeetCode Topics End-->
