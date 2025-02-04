@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -94,6 +95,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2164-two-best-non-overlapping-events) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -178,4 +180,8 @@
 |  |
 | ------- |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
