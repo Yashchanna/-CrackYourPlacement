@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0650-2-keys-keyboard](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0670-maximum-swap) |
 | [2716-prime-subtraction-operation](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
@@ -22,6 +23,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0678-valid-parenthesis-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
 | [0778-reorganize-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [1304-longest-happy-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1304-longest-happy-string) |
@@ -133,6 +135,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0778-reorganize-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
