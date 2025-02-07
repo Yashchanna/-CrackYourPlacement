@@ -10,7 +10,7 @@ public:
            int val = queries[i][1];
            if(ball_number[ind]!=val){
             int prev = ball_number[ind];
-            if(prev!=val){
+            if(prev!=0){
                 mp[prev]--;
                 if(mp[prev] == 0) cnt--;
             }
