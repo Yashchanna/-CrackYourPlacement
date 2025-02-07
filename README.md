@@ -46,6 +46,7 @@
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Array
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [2716-prime-subtraction-operation](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3427-special-array-ii) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Greedy
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 | [1364-tuple-with-same-product](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Linked List
 |  |
 | ------- |
