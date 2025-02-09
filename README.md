@@ -98,6 +98,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0018-4sum) |
+| [0061-rotate-list](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0061-rotate-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
