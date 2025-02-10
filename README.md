@@ -36,18 +36,21 @@
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
+| [3447-clear-digits](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3447-clear-digits) |
 ## Stack
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3447-clear-digits) |
 ## Array
 |  |
 | ------- |
