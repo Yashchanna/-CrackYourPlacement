@@ -8,6 +8,7 @@
 | [0012-integer-to-roman](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0650-2-keys-keyboard](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0670-maximum-swap) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 ## Dynamic Programming
@@ -68,6 +69,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
 | [1364-tuple-with-same-product](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1477-product-of-the-last-k-numbers) |
 | [1755-defuse-the-bomb](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1755-defuse-the-bomb) |
 | [2164-two-best-non-overlapping-events](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2164-two-best-non-overlapping-events) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -183,6 +185,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1477-product-of-the-last-k-numbers) |
 | [3427-special-array-ii](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3427-special-array-ii) |
 ## Monotonic Stack
 |  |
@@ -215,4 +218,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
+## Design
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1477-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
