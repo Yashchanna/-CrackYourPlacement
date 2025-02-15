@@ -11,6 +11,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -226,4 +227,8 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1477-product-of-the-last-k-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
