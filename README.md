@@ -31,6 +31,7 @@
 | [0012-integer-to-roman](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0678-valid-parenthesis-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
 | [0778-reorganize-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [1160-letter-tile-possibilities](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
 | [1304-longest-happy-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1304-longest-happy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -159,6 +160,7 @@
 | [0012-integer-to-roman](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0778-reorganize-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [1160-letter-tile-possibilities](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2448-count-number-of-bad-pairs](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2448-count-number-of-bad-pairs) |
@@ -181,6 +183,7 @@
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0778-reorganize-string) |
+| [1160-letter-tile-possibilities](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1364-tuple-with-same-product) |
 | [2448-count-number-of-bad-pairs](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2448-count-number-of-bad-pairs) |
 ## Prefix Sum
@@ -230,5 +233,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [1160-letter-tile-possibilities](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
