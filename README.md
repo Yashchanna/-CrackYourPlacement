@@ -37,6 +37,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -48,6 +49,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3447-clear-digits) |
 ## Simulation
@@ -94,6 +96,7 @@
 | [0778-reorganize-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
 | [1304-longest-happy-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1304-longest-happy-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
@@ -234,5 +237,6 @@
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
