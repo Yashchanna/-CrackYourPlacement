@@ -17,10 +17,11 @@ public:
                     int z = x + y;
                     x = y;
                     y = z;
-                    ans = max(ans, ++length);
+                    ++length;
                 }
+                ans = max(ans, length);
             }
 
-        return ans;
+        return ans<3 ? 0 :ans;
     }
 };
