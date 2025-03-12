@@ -35,6 +35,7 @@
 | [0778-reorganize-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [1160-letter-tile-possibilities](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
 | [1304-longest-happy-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1304-longest-happy-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1755-defuse-the-bomb) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Number Theory
@@ -174,6 +176,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1364-tuple-with-same-product) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2448-count-number-of-bad-pairs](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2448-count-number-of-bad-pairs) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
