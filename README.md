@@ -94,6 +94,7 @@
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3427-special-array-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3643-zero-array-transformation-ii](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3643-zero-array-transformation-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -143,6 +144,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 | [3427-special-array-ii](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -208,6 +210,7 @@
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1477-product-of-the-last-k-numbers) |
 | [3427-special-array-ii](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3643-zero-array-transformation-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
