@@ -72,6 +72,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2164-two-best-non-overlapping-events) |
