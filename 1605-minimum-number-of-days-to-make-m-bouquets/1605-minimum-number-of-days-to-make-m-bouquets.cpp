@@ -26,7 +26,7 @@ public:
     }
     int minDays(vector<int>& bloomDay, int m, int k) {
 
-        // if(bloomDay.size()/k<m) return -1;
+        if(bloomDay.size()/k<m) return -1;
 
         int l=0 , r=0;
         for(auto a : bloomDay )
@@ -35,14 +35,14 @@ public:
         }
         int ans = -1;
 
-        while(l<=r)
+        while(l<r)
         {
             int mid=l+(r-l)/2;
 
             if(solve(bloomDay , m , k , mid)>=m)
             {
-                ans=mid;
-                r=mid-1;
+                // ans=mid;
+                r=mid;
             }
             else
             {
@@ -52,7 +52,7 @@ public:
        
 
 
-        return ans;
+        return l;
 
         
     }
