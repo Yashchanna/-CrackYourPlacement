@@ -2,18 +2,16 @@ class Solution {
 public:
   bool solve(vector<int>& nums , int l , int r)
   {
-    for(int i = l ;i<r ;i++ )
-    {
-        for(int j=i+1 ; j<=r ; j++)
+    
+        for(int j=l ; j<r ; j++)
         {
-            if(!(nums[i] & nums[j] )) 
+            if(!(nums[j] & nums[r] )) 
             {
                 continue;
             }
             else 
             return 0;
         }
-    }
     return 1;
   }
     int longestNiceSubarray(vector<int>& nums) {
