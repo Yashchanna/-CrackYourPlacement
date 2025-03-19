@@ -28,6 +28,7 @@
 | [2478-longest-nice-subarray](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2478-longest-nice-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3394-minimum-array-end) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3427-special-array-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3643-zero-array-transformation-ii) |
 ## Greedy
 |  |
@@ -181,6 +183,7 @@
 | [1755-defuse-the-bomb](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1755-defuse-the-bomb) |
 | [2478-longest-nice-subarray](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2478-longest-nice-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -230,6 +233,7 @@
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1477-product-of-the-last-k-numbers) |
 | [3427-special-array-ii](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3427-special-array-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3643-zero-array-transformation-ii) |
 ## Monotonic Stack
 |  |
@@ -276,4 +280,8 @@
 | [1160-letter-tile-possibilities](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
