@@ -20,6 +20,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [2164-two-best-non-overlapping-events](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2164-two-best-non-overlapping-events) |
+| [2262-solving-questions-with-brainpower](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2262-solving-questions-with-brainpower) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2164-two-best-non-overlapping-events) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
+| [2262-solving-questions-with-brainpower](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2448-count-number-of-bad-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2478-longest-nice-subarray) |
