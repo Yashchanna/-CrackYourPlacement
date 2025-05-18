@@ -20,6 +20,7 @@
 | [0650-2-keys-keyboard](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2164-two-best-non-overlapping-events](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2164-two-best-non-overlapping-events) |
 | [2262-solving-questions-with-brainpower](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2262-solving-questions-with-brainpower) |
 ## Bit Manipulation
