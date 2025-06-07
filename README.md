@@ -248,23 +248,27 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0102-binary-tree-level-order-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0100-same-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0102-binary-tree-level-order-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0102-binary-tree-level-order-traversal) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Graph
