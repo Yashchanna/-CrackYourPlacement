@@ -8,20 +8,27 @@ public:
         q.push(root);
 
         while (!q.empty()) {
-            int levelSize = q.size();  // Number of nodes in the current level
             vector<int> level;
+            queue<TreeNode*> q2;
 
-            for (int i = 0; i < levelSize; ++i) {
+            while (!q.empty()) {
                 TreeNode* curr = q.front();
                 q.pop();
 
                 level.push_back(curr->val);
 
-                if (curr->left) q.push(curr->left);
-                if (curr->right) q.push(curr->right);
+                if (curr->left) q2.push(curr->left);
+                if (curr->right) q2.push(curr->right);
             }
 
             ans.push_back(level);
+
+            // Move q2 to q
+            while (!q2.empty()) {
+                TreeNode* a = q2.front();
+                q.push(a);
+                q2.pop();
+            }
         }
 
         return ans;
