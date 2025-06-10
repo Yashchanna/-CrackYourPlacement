@@ -52,6 +52,7 @@
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
 | [3447-clear-digits](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3447-clear-digits) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
@@ -211,6 +212,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2448-count-number-of-bad-pairs) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Linked List
 |  |
 | ------- |
@@ -234,6 +236,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Prefix Sum
 |  |
 | ------- |
