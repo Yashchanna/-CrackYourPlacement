@@ -17,6 +17,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0650-2-keys-keyboard](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
@@ -82,6 +83,7 @@
 | [0015-3sum](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0033-search-in-rotated-sorted-array) |
+| [0055-jump-game](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -119,6 +121,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0678-valid-parenthesis-string) |
