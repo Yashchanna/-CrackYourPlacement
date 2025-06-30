@@ -86,6 +86,7 @@
 | [0055-jump-game](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0217-contains-duplicate) |
+| [0594-longest-harmonious-subsequence](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0792-binary-search) |
@@ -180,6 +181,7 @@
 | [0015-3sum](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0217-contains-duplicate](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0217-contains-duplicate) |
+| [0594-longest-harmonious-subsequence](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0778-reorganize-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
@@ -190,6 +192,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1755-defuse-the-bomb) |
@@ -206,6 +209,7 @@
 | [0001-two-sum](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0217-contains-duplicate) |
+| [0594-longest-harmonious-subsequence](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0778-reorganize-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -235,6 +239,7 @@
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0594-longest-harmonious-subsequence) |
 | [0778-reorganize-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/0778-reorganize-string) |
 | [1160-letter-tile-possibilities](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1364-tuple-with-same-product) |
