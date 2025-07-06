@@ -97,6 +97,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1477-product-of-the-last-k-numbers) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1755-defuse-the-bomb](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1755-defuse-the-bomb) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2164-two-best-non-overlapping-events) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
@@ -217,6 +218,7 @@
 | [1364-tuple-with-same-product](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2448-count-number-of-bad-pairs) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -296,6 +298,7 @@
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1477-product-of-the-last-k-numbers) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Yashchanna/-CrackYourPlacement/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Data Stream
 |  |
 | ------- |
